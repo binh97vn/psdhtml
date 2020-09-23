@@ -1,0 +1,264 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	width:1920px;
+	height:4943px;
+	margin:0 auto;
+	
+}
+header{
+	width:1920px;
+	height:155px;
+	
+	margin:0 auto;
+	
+}
+.container{
+	width:1170px;
+	height:auto;
+	
+	margin:0 auto;
+}
+.content{
+	width:1920px;
+	height:4280px;
+	
+	position: relative;
+}
+.kk{
+	width:600px; 
+	height:400px;
+	
+	position: absolute;
+	top:150px;
+	left:230px;
+	
+}
+h{
+	padding-bottom: 32px;
+	font-size: 30px;
+}
+h2{
+	font-size:60px;
+}
+
+.logo{
+	width:70px;
+	height:155px;
+
+	float:left;
+	padding-top:50px;
+}
+
+nav{
+	width:1100px;
+	height:155px;
+	
+	float:right;
+	
+}
+ul{
+	float:right;
+	padding-right:47px;
+	padding-top:55px;
+	font-family: 'Montserrat', sans-serif;
+}
+a{
+	text-decoration: none;
+	
+}
+.banner{
+	width:1450px;
+	height:670px;
+	background: url(Layer-12.jpg);
+	margin:0 auto;
+	
+}
+.concecpts{
+width:1920px;
+height:1848px;
+
+	display: inline-block;
+}
+.concepts-gallery{
+	width:1170px;
+	height:1445px;
+	
+	display: flex;
+	flex-wrap: wrap;
+}
+.box-img{
+	width:370px;
+	height:1445px;
+	
+	margin-bottom: 50px
+}
+.box-img{
+	width:370px;
+	height:1445px;
+
+	margin-bottom: 50px;
+}
+.box-center{
+	margin-left:30px;
+	margin-right:30px
+}
+
+.concecpts h1{
+	font-size: 55px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 62px;
+	margin-bottom: 62px;
+}
+.get{
+	width:1920px;
+	height:645px;
+	
+	display: inline-block;
+}
+
+.box-logo{
+	width:1170px;
+	height:645px;
+
+	display: flex;
+	flex-wrap: wrap;
+}
+.box1{
+	width:370px;
+	height:645px;
+	
+	margin-bottom: 50px
+}
+.box1{
+	width:370px;
+	height:645px;
+	
+	margin-bottom: 50px;
+}
+.box2{
+	margin-left:30px;
+	margin-right:30px;
+}
+.box1 img{
+	padding-top:180px;
+	padding-left: 150px;
+	padding-bottom: 20px;
+}
+.box1 h3{
+	text-align: center;
+	padding-top:35px;
+	padding-bottom: 35px;
+}
+.box1 p2{
+	width:351px;
+	height:121px;
+	text-align: center;
+	
+}
+.get1{
+	width:1920px;
+	height:955px;
+	
+	display: inline-block;
+}
+
+.box-get1{
+	width:1170px;
+	height:955px;
+	padding-top: 200px;
+	box-sizing: border-box;
+	
+	
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 15px;
+  
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 25px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color:#000000;
+  color: white;
+margin-left: 300px;
+  padding: 12px 50px;
+  border: none;
+  border-radius: 4px;
+ 
+}
+input[type=submit1] {
+  background-color:#000000;
+  color: white;
+margin-left: 500px;
+	padding:  50px  0px 50px 50px;
+  border: none;
+  border-radius: 4px;
+ 
+}
+input[type=submit2] {
+  background-color:#000000;
+  color: white;
+margin-top: 50px;
+  padding: 30px 20px 30px 30px;
+  border: none;
+  border-radius: 4px;
+	box-sizing: border-box;
+ 
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+h4{
+	text-align: center;
+	padding-bottom: 100px;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.container1 {
+	width:800px;
+	height:555px;
+	
+	border-radius: 5px;
+	margin: auto
+}
+footer{
+	width:1920px;
+	height:664px;
+	
+}
+.contact{
+	width:600px;
+	height:663px;
+	
+	margin:auto;
+	padding-top:40px;
+	box-sizing: border-box;
+	}
+h8{	
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+	}
+h9{ 
+	font-size: 60px;
+	text-align: center;
+	margin-top:50px;
+	mar
+}
+h10{
+	font-size: 50px
+		
+}
